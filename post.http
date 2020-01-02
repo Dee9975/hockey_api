@@ -1,0 +1,6 @@
+POST http://127.0.0.1:8080/api/v2/addUser
+Content-Type: application/json
+
+{"name": {"text":  "Emils"}, "lastname":  {"text": "Kalnins"}, "position": {"text": "G"}, "number":  {"text": "22"}, "birthDate": {"text":"08/03/1999"}}
+
+###
